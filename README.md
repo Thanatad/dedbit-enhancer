@@ -20,7 +20,7 @@ Userscript สำหรับเว็บไซต์ **[dedbit.com](https://www
 
 กดลิงก์ด้านล่างเพื่อ **ติดตั้ง UserScript**:
 
-👉 [**ติดตั้ง Dedbit: TMDb Posters+Ratings (FAST v1.8 full)**](https://raw.githubusercontent.com/Thanatad/dedbit-enhancer/main/dedbit-tmdb.js)
+👉 [**ติดตั้ง Dedbit: TMDb Posters+Ratings (FAST v1.8 full)**](https://raw.githubusercontent.com/Thanatad/dedbit-enhancer/main/dedbit-tmdb.user.js)
 
 ## ⚙️ การตั้งค่า
 
